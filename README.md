@@ -65,8 +65,11 @@ My passion is user experience and creating real business value with a particular
 
 <img align="lef" alt="genesisgabiola's GitHub Stats" src="https://github-readme-stats-genesisgabiola.vercel.app/api?username=genesisgabiola&show_icons=true&theme=buefy">
 
-
 ---
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.genesisgabiola.vercel.app/api/spotify" alt="genesisgabiola Spotify Playing" width="350" />](https://open.spotify.com/user/damy31izjuv3x7awgu3mwzgwg)
 
 ### Connect with me:
 
