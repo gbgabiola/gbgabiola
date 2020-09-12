@@ -53,6 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
+2. 💪 Opened PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
+3. 🎉 Merged PR [#4](https://github.com//genesisgabiola/reviewing-a-pull-request/pull/4) in [genesisgabiola/reviewing-a-pull-request](https://github.com//genesisgabiola/reviewing-a-pull-request)
+4. 💪 Opened PR [#4](https://github.com//genesisgabiola/reviewing-a-pull-request/pull/4) in [genesisgabiola/reviewing-a-pull-request](https://github.com//genesisgabiola/reviewing-a-pull-request)
+5. 🎉 Merged PR [#4](https://github.com//genesisgabiola/github-pages-with-jekyll/pull/4) in [genesisgabiola/github-pages-with-jekyll](https://github.com//genesisgabiola/github-pages-with-jekyll)
 <!--END_SECTION:activity-->
 
 
