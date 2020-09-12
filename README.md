@@ -48,6 +48,11 @@ My passion is user experience and creating real business value with a particular
 <br />
 <br />
 
+<details>
+  <summary>⚡ Github Stats</summary>
+  <img align="lef" alt="genesisgabiola's GitHub Stats" src="https://github-readme-stats-genesisgabiola.vercel.app/api?username=genesisgabiola&show_icons=true&theme=buefy">
+</details>
+
 ---
 
 ### Connect with me:
