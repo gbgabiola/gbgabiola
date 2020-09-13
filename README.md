@@ -19,11 +19,11 @@ My passion is user experience and creating real business value with a particular
 
 ### Gist About me:
 
-- 🔭 I’m currently working on a my JavaScript projects
+- 🔭 I’m currently working on a JavaScript project
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on a ReactJS project
 - 🥅 2020-2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess & instruments
+- ⚡ Fun fact: I love to play chess & musical instruments
 
 ### Languages and Tools:
 
@@ -60,16 +60,11 @@ My passion is user experience and creating real business value with a particular
 5. 🎉 Merged PR [#4](https://github.com//genesisgabiola/github-pages-with-jekyll/pull/4) in [genesisgabiola/github-pages-with-jekyll](https://github.com//genesisgabiola/github-pages-with-jekyll)
 <!--END_SECTION:activity-->
 
-
 ### ⚡ GitHub Stats
 
 <img align="lef" alt="genesisgabiola's GitHub Stats" src="https://github-readme-stats-genesisgabiola.vercel.app/api?username=genesisgabiola&show_icons=true&theme=buefy">
 
 ---
-
-### Spotify Playing 🎧
-
-[<img src="https://spotify-now-playing.genesisgabiola.vercel.app/api/spotify" alt="genesisgabiola Spotify Playing" width="350" />](https://open.spotify.com/user/damy31izjuv3x7awgu3mwzgwg)
 
 ### Connect with me:
 
