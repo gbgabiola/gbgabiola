@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//genesisgabiola/merge-conflicts/pull/3) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
-2. 🎉 Merged PR [#1](https://github.com//genesisgabiola/merge-conflicts/pull/1) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
-3. 🎉 Merged PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
-4. 💪 Opened PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
-5. 🎉 Merged PR [#4](https://github.com//genesisgabiola/reviewing-a-pull-request/pull/4) in [genesisgabiola/reviewing-a-pull-request](https://github.com//genesisgabiola/reviewing-a-pull-request)
+1. 🎉 Merged PR [#7](https://github.com//genesisgabiola/merge-conflicts/pull/7) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
+2. ❗️ Closed issue [#5](https://github.com//genesisgabiola/merge-conflicts/issues/5) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
+3. 💪 Opened PR [#7](https://github.com//genesisgabiola/merge-conflicts/pull/7) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
+4. 🎉 Merged PR [#6](https://github.com//genesisgabiola/merge-conflicts/pull/6) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
+5. 💪 Opened PR [#6](https://github.com//genesisgabiola/merge-conflicts/pull/6) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
