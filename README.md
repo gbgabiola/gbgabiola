@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//genesisgabiola/merge-conflicts/pull/1) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
-2. 🎉 Merged PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
-3. 💪 Opened PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
-4. 🎉 Merged PR [#4](https://github.com//genesisgabiola/reviewing-a-pull-request/pull/4) in [genesisgabiola/reviewing-a-pull-request](https://github.com//genesisgabiola/reviewing-a-pull-request)
-5. 💪 Opened PR [#4](https://github.com//genesisgabiola/reviewing-a-pull-request/pull/4) in [genesisgabiola/reviewing-a-pull-request](https://github.com//genesisgabiola/reviewing-a-pull-request)
+1. 🎉 Merged PR [#3](https://github.com//genesisgabiola/merge-conflicts/pull/3) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
+2. 🎉 Merged PR [#1](https://github.com//genesisgabiola/merge-conflicts/pull/1) in [genesisgabiola/merge-conflicts](https://github.com//genesisgabiola/merge-conflicts)
+3. 🎉 Merged PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
+4. 💪 Opened PR [#1](https://github.com//genesisgabiola/genesisgabiola.github.io/pull/1) in [genesisgabiola/genesisgabiola.github.io](https://github.com//genesisgabiola/genesisgabiola.github.io)
+5. 🎉 Merged PR [#4](https://github.com//genesisgabiola/reviewing-a-pull-request/pull/4) in [genesisgabiola/reviewing-a-pull-request](https://github.com//genesisgabiola/reviewing-a-pull-request)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
