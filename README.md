@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com//genesisgabiola/jsbootcamp/pull/4) in [genesisgabiola/jsbootcamp](https://github.com//genesisgabiola/jsbootcamp)
-2. 💪 Opened PR [#4](https://github.com//genesisgabiola/jsbootcamp/pull/4) in [genesisgabiola/jsbootcamp](https://github.com//genesisgabiola/jsbootcamp)
-3. ❗️ Closed issue [#5](https://github.com//genesisgabiola/security-on-github/issues/5) in [genesisgabiola/security-on-github](https://github.com//genesisgabiola/security-on-github)
-4. 🎉 Merged PR [#3](https://github.com//genesisgabiola/security-on-github/pull/3) in [genesisgabiola/security-on-github](https://github.com//genesisgabiola/security-on-github)
-5. 🎉 Merged PR [#1](https://github.com//genesisgabiola/security-on-github/pull/1) in [genesisgabiola/security-on-github](https://github.com//genesisgabiola/security-on-github)
+1. ❗️ Closed issue [#3](https://github.com//genesisgabiola/hello-github-actions/issues/3) in [genesisgabiola/hello-github-actions](https://github.com//genesisgabiola/hello-github-actions)
+2. 🎉 Merged PR [#2](https://github.com//genesisgabiola/hello-github-actions/pull/2) in [genesisgabiola/hello-github-actions](https://github.com//genesisgabiola/hello-github-actions)
+3. 💪 Opened PR [#2](https://github.com//genesisgabiola/hello-github-actions/pull/2) in [genesisgabiola/hello-github-actions](https://github.com//genesisgabiola/hello-github-actions)
+4. ❌ Closed PR [#3](https://github.com//genesisgabiola/progress/pull/3) in [genesisgabiola/progress](https://github.com//genesisgabiola/progress)
+5. ❌ Closed PR [#4](https://github.com//genesisgabiola/progress/pull/4) in [genesisgabiola/progress](https://github.com//genesisgabiola/progress)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
