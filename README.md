@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com//genesisgabiola/hello-github-actions/issues/3) in [genesisgabiola/hello-github-actions](https://github.com//genesisgabiola/hello-github-actions)
-2. 🎉 Merged PR [#2](https://github.com//genesisgabiola/hello-github-actions/pull/2) in [genesisgabiola/hello-github-actions](https://github.com//genesisgabiola/hello-github-actions)
-3. 💪 Opened PR [#2](https://github.com//genesisgabiola/hello-github-actions/pull/2) in [genesisgabiola/hello-github-actions](https://github.com//genesisgabiola/hello-github-actions)
-4. ❌ Closed PR [#3](https://github.com//genesisgabiola/progress/pull/3) in [genesisgabiola/progress](https://github.com//genesisgabiola/progress)
-5. ❌ Closed PR [#4](https://github.com//genesisgabiola/progress/pull/4) in [genesisgabiola/progress](https://github.com//genesisgabiola/progress)
+1. ❗️ Closed issue [#13](https://github.com//genesisgabiola/release-based-workflow/issues/13) in [genesisgabiola/release-based-workflow](https://github.com//genesisgabiola/release-based-workflow)
+2. 🎉 Merged PR [#6](https://github.com//genesisgabiola/release-based-workflow/pull/6) in [genesisgabiola/release-based-workflow](https://github.com//genesisgabiola/release-based-workflow)
+3. 🎉 Merged PR [#8](https://github.com//genesisgabiola/release-based-workflow/pull/8) in [genesisgabiola/release-based-workflow](https://github.com//genesisgabiola/release-based-workflow)
+4. 💪 Opened PR [#8](https://github.com//genesisgabiola/release-based-workflow/pull/8) in [genesisgabiola/release-based-workflow](https://github.com//genesisgabiola/release-based-workflow)
+5. 💪 Opened PR [#6](https://github.com//genesisgabiola/release-based-workflow/pull/6) in [genesisgabiola/release-based-workflow](https://github.com//genesisgabiola/release-based-workflow)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
