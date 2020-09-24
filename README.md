@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com//genesisgabiola/innersource/issues/3) in [genesisgabiola/innersource](https://github.com//genesisgabiola/innersource)
-2. 🎉 Merged PR [#2](https://github.com//genesisgabiola/innersource/pull/2) in [genesisgabiola/innersource](https://github.com//genesisgabiola/innersource)
-3. ❗️ Closed issue [#3](https://github.com//genesisgabiola/github-move/issues/3) in [genesisgabiola/github-move](https://github.com//genesisgabiola/github-move)
-4. ❗️ Closed issue [#2](https://github.com//genesisgabiola/github-move/issues/2) in [genesisgabiola/github-move](https://github.com//genesisgabiola/github-move)
-5. ❗️ Closed issue [#1](https://github.com//genesisgabiola/github-move/issues/1) in [genesisgabiola/github-move](https://github.com//genesisgabiola/github-move)
+1. 🎉 Merged PR [#5](https://github.com//genesisgabiola/innersource/pull/5) in [genesisgabiola/innersource](https://github.com//genesisgabiola/innersource)
+2. 🎉 Merged PR [#4](https://github.com//genesisgabiola/innersource/pull/4) in [genesisgabiola/innersource](https://github.com//genesisgabiola/innersource)
+3. 🗣 Commented on [#3](https://github.com//genesisgabiola/innersource/issues/3) in [genesisgabiola/innersource](https://github.com//genesisgabiola/innersource)
+4. 🎉 Merged PR [#2](https://github.com//genesisgabiola/innersource/pull/2) in [genesisgabiola/innersource](https://github.com//genesisgabiola/innersource)
+5. ❗️ Closed issue [#3](https://github.com//genesisgabiola/github-move/issues/3) in [genesisgabiola/github-move](https://github.com//genesisgabiola/github-move)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
