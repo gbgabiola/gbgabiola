@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/genesisgabiola/jsbootcamp/pull/6) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-2. 💪 Opened PR [#6](https://github.com/genesisgabiola/jsbootcamp/pull/6) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-3. 🎉 Merged PR [#5](https://github.com/genesisgabiola/jsbootcamp/pull/5) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-4. 💪 Opened PR [#5](https://github.com/genesisgabiola/jsbootcamp/pull/5) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-5. ❗️ Closed issue [#8](https://github.com/genesisgabiola/innersource/issues/8) in [genesisgabiola/innersource](https://github.com/genesisgabiola/innersource)
+1. 💪 Opened PR [#31226](https://github.com/firstcontributions/first-contributions/pull/31226) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🎉 Merged PR [#6](https://github.com/genesisgabiola/jsbootcamp/pull/6) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
+3. 💪 Opened PR [#6](https://github.com/genesisgabiola/jsbootcamp/pull/6) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
+4. 🎉 Merged PR [#5](https://github.com/genesisgabiola/jsbootcamp/pull/5) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
+5. 💪 Opened PR [#5](https://github.com/genesisgabiola/jsbootcamp/pull/5) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
