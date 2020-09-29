@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31274](https://github.com/firstcontributions/first-contributions/issues/31274) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 💪 Opened PR [#31226](https://github.com/firstcontributions/first-contributions/pull/31226) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. 🎉 Merged PR [#6](https://github.com/genesisgabiola/jsbootcamp/pull/6) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-4. 💪 Opened PR [#6](https://github.com/genesisgabiola/jsbootcamp/pull/6) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-5. 🎉 Merged PR [#5](https://github.com/genesisgabiola/jsbootcamp/pull/5) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
+1. 🗣 Commented on [#31274](https://github.com/firstcontributions/first-contributions/issues/31274) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#31277](https://github.com/firstcontributions/first-contributions/issues/31277) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 🗣 Commented on [#31277](https://github.com/firstcontributions/first-contributions/issues/31277) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 🗣 Commented on [#31277](https://github.com/firstcontributions/first-contributions/issues/31277) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 🗣 Commented on [#31277](https://github.com/firstcontributions/first-contributions/issues/31277) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
