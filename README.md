@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/genesisgabiola/jsbootcamp/pull/7) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-2. 💪 Opened PR [#7](https://github.com/genesisgabiola/jsbootcamp/pull/7) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
-3. 🗣 Commented on [#31274](https://github.com/firstcontributions/first-contributions/issues/31274) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 🗣 Commented on [#31274](https://github.com/firstcontributions/first-contributions/issues/31274) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 🗣 Commented on [#31277](https://github.com/firstcontributions/first-contributions/issues/31277) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 💪 Opened PR [#15](https://github.com/KarenEfereyan/extensions-4-every-developer/pull/15) in [KarenEfereyan/extensions-4-every-developer](https://github.com/KarenEfereyan/extensions-4-every-developer)
+2. ❗️ Opened issue [#14](https://github.com/KarenEfereyan/extensions-4-every-developer/issues/14) in [KarenEfereyan/extensions-4-every-developer](https://github.com/KarenEfereyan/extensions-4-every-developer)
+3. 💪 Opened PR [#221](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice/pull/221) in [EddieJaoudeCommunity/hacktoberfest-practice](https://github.com/EddieJaoudeCommunity/hacktoberfest-practice)
+4. ❗️ Opened issue [#272](https://github.com/EddieJaoudeCommunity/support/issues/272) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. 🎉 Merged PR [#7](https://github.com/genesisgabiola/jsbootcamp/pull/7) in [genesisgabiola/jsbootcamp](https://github.com/genesisgabiola/jsbootcamp)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
