@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/BolajiAyodeji/awesome-jamstack/pull/16) in [BolajiAyodeji/awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack)
-2. 💪 Opened PR [#29](https://github.com/BolajiAyodeji/awesome-technical-writing/pull/29) in [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
-3. 🗣 Commented on [#2](https://github.com/fccManila/fccmanila.github.io/issues/2) in [fccManila/fccmanila.github.io](https://github.com/fccManila/fccmanila.github.io)
-4. 💪 Opened PR [#15](https://github.com/KarenEfereyan/extensions-4-every-developer/pull/15) in [KarenEfereyan/extensions-4-every-developer](https://github.com/KarenEfereyan/extensions-4-every-developer)
-5. ❗️ Opened issue [#14](https://github.com/KarenEfereyan/extensions-4-every-developer/issues/14) in [KarenEfereyan/extensions-4-every-developer](https://github.com/KarenEfereyan/extensions-4-every-developer)
+1. 💪 Opened PR [#631](https://github.com/bradtraversy/design-resources-for-developers/pull/631) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+2. 💪 Opened PR [#16](https://github.com/BolajiAyodeji/awesome-jamstack/pull/16) in [BolajiAyodeji/awesome-jamstack](https://github.com/BolajiAyodeji/awesome-jamstack)
+3. 💪 Opened PR [#29](https://github.com/BolajiAyodeji/awesome-technical-writing/pull/29) in [BolajiAyodeji/awesome-technical-writing](https://github.com/BolajiAyodeji/awesome-technical-writing)
+4. 🗣 Commented on [#2](https://github.com/fccManila/fccmanila.github.io/issues/2) in [fccManila/fccmanila.github.io](https://github.com/fccManila/fccmanila.github.io)
+5. 💪 Opened PR [#15](https://github.com/KarenEfereyan/extensions-4-every-developer/pull/15) in [KarenEfereyan/extensions-4-every-developer](https://github.com/KarenEfereyan/extensions-4-every-developer)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
