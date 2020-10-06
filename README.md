@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/fccManila/fccmanila.github.io/pull/52) in [fccManila/fccmanila.github.io](https://github.com/fccManila/fccmanila.github.io)
-2. 🗣 Commented on [#642](https://github.com/bradtraversy/design-resources-for-developers/issues/642) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-3. 🗣 Commented on [#631](https://github.com/bradtraversy/design-resources-for-developers/issues/631) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-4. 💪 Opened PR [#642](https://github.com/bradtraversy/design-resources-for-developers/pull/642) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-5. 🗣 Commented on [#631](https://github.com/bradtraversy/design-resources-for-developers/issues/631) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+1. ❗️ Opened issue [#441](https://github.com/freeCodeCamp/how-to-contribute-to-open-source/issues/441) in [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+2. 💪 Opened PR [#52](https://github.com/fccManila/fccmanila.github.io/pull/52) in [fccManila/fccmanila.github.io](https://github.com/fccManila/fccmanila.github.io)
+3. 🗣 Commented on [#642](https://github.com/bradtraversy/design-resources-for-developers/issues/642) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+4. 🗣 Commented on [#631](https://github.com/bradtraversy/design-resources-for-developers/issues/631) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+5. 💪 Opened PR [#642](https://github.com/bradtraversy/design-resources-for-developers/pull/642) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
