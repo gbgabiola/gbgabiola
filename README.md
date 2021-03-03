@@ -53,11 +53,11 @@ My passion is user experience and creating real business value with a particular
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/genesisgabiola/todos/pull/5) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
-2. 💪 Opened PR [#5](https://github.com/genesisgabiola/todos/pull/5) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
-3. 🎉 Merged PR [#4](https://github.com/genesisgabiola/todos/pull/4) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
-4. 💪 Opened PR [#4](https://github.com/genesisgabiola/todos/pull/4) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
-5. 🎉 Merged PR [#3](https://github.com/genesisgabiola/todos/pull/3) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
+1. 🎉 Merged PR [#6](https://github.com/genesisgabiola/todos/pull/6) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
+2. 💪 Opened PR [#6](https://github.com/genesisgabiola/todos/pull/6) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
+3. 🎉 Merged PR [#5](https://github.com/genesisgabiola/todos/pull/5) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
+4. 💪 Opened PR [#5](https://github.com/genesisgabiola/todos/pull/5) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
+5. 🎉 Merged PR [#4](https://github.com/genesisgabiola/todos/pull/4) in [genesisgabiola/todos](https://github.com/genesisgabiola/todos)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
