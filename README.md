@@ -1,7 +1,7 @@
 ### Hi there, I'm Genesis 👋
 
-[![Website](https://img.shields.io/website?label=genesisgabiola.now.sh&style=for-the-badge&url=https%3A%2F%2Fgenesisgabiola.now.sh)](https://genesisgabiola.now.sh/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/genesisgabiola?color=1DA1F2&logo=twitter&style=for-the-badge "Follow me on twitter")](https://twitter.com/intent/follow?screen_name=genesisgabiola)
+[![Website](https://img.shields.io/website?label=gbgabiola.now.sh&style=for-the-badge&url=https%3A%2F%2Fgbgabiola.now.sh)](https://gbgabiola.now.sh/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gbgabiola?color=1DA1F2&logo=twitter&style=for-the-badge "Follow me on twitter")](https://twitter.com/intent/follow?screen_name=gbgabiola)
 
 
 ## I'm a Front-End Developer specializing in JavaScript!
@@ -55,29 +55,29 @@ My passion is user experience and creating real business value with a particular
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
 2. 💪 Opened PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
-3. 🎉 Merged PR [#11](https://github.com/genesisgabiola/progress/pull/11) in [genesisgabiola/progress](https://github.com/genesisgabiola/progress)
-4. 💪 Opened PR [#11](https://github.com/genesisgabiola/progress/pull/11) in [genesisgabiola/progress](https://github.com/genesisgabiola/progress)
-5. 🎉 Merged PR [#10](https://github.com/genesisgabiola/progress/pull/10) in [genesisgabiola/progress](https://github.com/genesisgabiola/progress)
+3. 🎉 Merged PR [#11](https://github.com/gbgabiola/progress/pull/11) in [gbgabiola/progress](https://github.com/gbgabiola/progress)
+4. 💪 Opened PR [#11](https://github.com/gbgabiola/progress/pull/11) in [gbgabiola/progress](https://github.com/gbgabiola/progress)
+5. 🎉 Merged PR [#10](https://github.com/gbgabiola/progress/pull/10) in [gbgabiola/progress](https://github.com/gbgabiola/progress)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
 
-<img align="lef" alt="genesisgabiola's GitHub Stats" src="https://github-readme-stats-genesisgabiola.vercel.app/api?username=genesisgabiola&show_icons=true&theme=buefy">
+<img align="lef" alt="gbgabiola's GitHub Stats" src="https://github-readme-stats-gbgabiola.vercel.app/api?username=gbgabiola&show_icons=true&theme=buefy">
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="genesisgabiola.now.sh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="genesisgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="genesisgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="genesisgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="genesisgabiola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="gbgabiola.now.sh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gbgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="gbgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gbgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gbgabiola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!-- [<img align="left" alt="Genesis Gabiola | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 
-[website]: https://genesisgabiola.netlify.app
-[twitter]: https://twitter.com/genesisgabiola
-[github]: https://github.com/genesisgabiola
-[linkedin]: https://linkedin.com/in/genesisgabiola
-[instagram]: https://instagram.com/genesisgabiola
+[website]: https://gbgabiola.now.sh
+[twitter]: https://twitter.com/gbgabiola
+[github]: https://github.com/gbgabiola
+[linkedin]: https://linkedin.com/in/gbgabiola
+[instagram]: https://instagram.com/gbgabiola
