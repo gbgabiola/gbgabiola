@@ -1,6 +1,6 @@
 ### Hi there, I'm Genesis 👋
 
-[![Website](https://img.shields.io/website?label=gbgabiola.now.sh&style=for-the-badge&url=https%3A%2F%2Fgbgabiola.now.sh)](https://gbgabiola.now.sh/)
+[![Website](https://img.shields.io/website?label=genesisgabiola.tech&style=for-the-badge&url=https%3A%2F%2Fgenesisgabiola.tech)](https://genesisgabiola.tech)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gbgabiola?color=1DA1F2&logo=twitter&style=for-the-badge "Follow me on twitter")](https://twitter.com/intent/follow?screen_name=gbgabiola)
 
 
@@ -22,7 +22,7 @@ My passion is user experience and creating real business value with a particular
 - 🔭 I’m currently working on a JavaScript project
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on a ReactJS project
-- 🥅 2020-2021 Goals: Contribute more to Open Source projects
+- 🥅 2021-2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess & musical instruments
 
 ### Languages and Tools:
@@ -56,19 +56,19 @@ My passion is user experience and creating real business value with a particular
 1. ❗️ Closed issue [#1](https://github.com/gbgabiola/github-slideshow/issues/1) in [gbgabiola/github-slideshow](https://github.com/gbgabiola/github-slideshow)
 2. 🎉 Merged PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
 3. 💪 Opened PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
-4. 🎉 Merged PR [#11](https://github.com/genesisgabiola/progress/pull/11) in [genesisgabiola/progress](https://github.com/genesisgabiola/progress)
-5. 💪 Opened PR [#11](https://github.com/genesisgabiola/progress/pull/11) in [genesisgabiola/progress](https://github.com/genesisgabiola/progress)
+4. 🎉 Merged PR [#11](https://github.com/gbgabiola/progress/pull/11) in [gbgabiola/progress](https://github.com/gbgabiola/progress)
+5. 💪 Opened PR [#11](https://github.com/gbgabiola/progress/pull/11) in [gbgabiola/progress](https://github.com/gbgabiola/progress)
 <!--END_SECTION:activity-->
 
 ### ⚡ GitHub Stats
 
-<img align="lef" alt="gbgabiola's GitHub Stats" src="https://github-readme-stats-gbgabiola.vercel.app/api?username=gbgabiola&show_icons=true&theme=buefy">
+<img align="left" alt="gbgabiola's GitHub Stats" src="https://github-readme-stats-gbgabiola.vercel.app/api?username=gbgabiola&show_icons=true&theme=buefy">
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="gbgabiola.now.sh | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="genesisgabiola.tech | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gbgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="gbgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gbgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -76,7 +76,7 @@ My passion is user experience and creating real business value with a particular
 <!-- [<img align="left" alt="Genesis Gabiola | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 
-[website]: https://gbgabiola.now.sh
+[website]: https://genesisgabiola.tech
 [twitter]: https://twitter.com/gbgabiola
 [github]: https://github.com/gbgabiola
 [linkedin]: https://linkedin.com/in/gbgabiola
