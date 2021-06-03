@@ -8,6 +8,7 @@
 
 My passion is user experience and creating real business value with a particular goal of understanding the human side of software development. In the words of [Jeff Atwood](https://blog.codinghorror.com/about-me), "Computers are fascinating machines, but they're mostly a reflection of the people using them... you have to study the people behind the software, too."
 
+
 ### For personal things, I:
 
 - love reading useful materials like coding resources and documentations.
@@ -17,6 +18,7 @@ My passion is user experience and creating real business value with a particular
 - am a traveler.
 - only have one woman.
 
+
 ### Gist About me:
 
 - 🔭 I’m currently working on a JavaScript project
@@ -24,6 +26,19 @@ My passion is user experience and creating real business value with a particular
 - 👯 I’m looking to collaborate on a ReactJS project
 - 🥅 2021-2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess & musical instruments
+
+
+### Connect with me:
+
+[<img align="left" alt="genesisgabiola.tech | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gbgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="gbgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="gbgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="gbgabiola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="Genesis Gabiola | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
+<br />
+
 
 ### Languages and Tools:
 
@@ -50,7 +65,8 @@ My passion is user experience and creating real business value with a particular
 
 ---
 
-### ⚡ Recent Activity
+<details open>
+  <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/gbgabiola/github-slideshow/pull/3) in [gbgabiola/github-slideshow](https://github.com/gbgabiola/github-slideshow)
@@ -60,20 +76,16 @@ My passion is user experience and creating real business value with a particular
 5. 💪 Opened PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
 <!--END_SECTION:activity-->
 
-### ⚡ GitHub Stats
-
-<img align="left" alt="gbgabiola's GitHub Stats" src="https://github-readme-stats-gbgabiola.vercel.app/api?username=gbgabiola&show_icons=true&theme=buefy">
+</details>
 
 ---
 
-### Connect with me:
+<details open>
+  <summary><h3>⚡ GitHub Stats</h3></summary>
 
-[<img align="left" alt="genesisgabiola.tech | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gbgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="gbgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gbgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gbgabiola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="Genesis Gabiola | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+<img align="left" alt="gbgabiola's GitHub Stats" src="https://github-readme-stats-gbgabiola.vercel.app/api?username=gbgabiola&show_icons=true&theme=buefy">
+
+</details>
 
 
 [website]: https://genesisgabiola.tech
