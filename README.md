@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/gbgabiola/github-slideshow/pull/3) in [gbgabiola/github-slideshow](https://github.com/gbgabiola/github-slideshow)
-2. 💪 Opened PR [#3](https://github.com/gbgabiola/github-slideshow/pull/3) in [gbgabiola/github-slideshow](https://github.com/gbgabiola/github-slideshow)
-3. ❗️ Closed issue [#1](https://github.com/gbgabiola/github-slideshow/issues/1) in [gbgabiola/github-slideshow](https://github.com/gbgabiola/github-slideshow)
-4. 🎉 Merged PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
-5. 💪 Opened PR [#1](https://github.com/gbgabiola/notes/pull/1) in [gbgabiola/notes](https://github.com/gbgabiola/notes)
+1. 🎉 Merged PR [#4](https://github.com/gbgabiola/reviewing-a-pull-request/pull/4) in [gbgabiola/reviewing-a-pull-request](https://github.com/gbgabiola/reviewing-a-pull-request)
+2. 💪 Opened PR [#4](https://github.com/gbgabiola/reviewing-a-pull-request/pull/4) in [gbgabiola/reviewing-a-pull-request](https://github.com/gbgabiola/reviewing-a-pull-request)
+3. ❗️ Closed issue [#13](https://github.com/gbgabiola/release-based-workflow/issues/13) in [gbgabiola/release-based-workflow](https://github.com/gbgabiola/release-based-workflow)
+4. 🎉 Merged PR [#6](https://github.com/gbgabiola/release-based-workflow/pull/6) in [gbgabiola/release-based-workflow](https://github.com/gbgabiola/release-based-workflow)
+5. 🎉 Merged PR [#8](https://github.com/gbgabiola/release-based-workflow/pull/8) in [gbgabiola/release-based-workflow](https://github.com/gbgabiola/release-based-workflow)
 <!--END_SECTION:activity-->
 
 </details>
