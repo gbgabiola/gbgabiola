@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/gbgabiola/reviewing-a-pull-request/pull/4) in [gbgabiola/reviewing-a-pull-request](https://github.com/gbgabiola/reviewing-a-pull-request)
-2. 💪 Opened PR [#4](https://github.com/gbgabiola/reviewing-a-pull-request/pull/4) in [gbgabiola/reviewing-a-pull-request](https://github.com/gbgabiola/reviewing-a-pull-request)
-3. ❗️ Closed issue [#13](https://github.com/gbgabiola/release-based-workflow/issues/13) in [gbgabiola/release-based-workflow](https://github.com/gbgabiola/release-based-workflow)
-4. 🎉 Merged PR [#6](https://github.com/gbgabiola/release-based-workflow/pull/6) in [gbgabiola/release-based-workflow](https://github.com/gbgabiola/release-based-workflow)
-5. 🎉 Merged PR [#8](https://github.com/gbgabiola/release-based-workflow/pull/8) in [gbgabiola/release-based-workflow](https://github.com/gbgabiola/release-based-workflow)
+1. ❗️ Closed issue [#5](https://github.com/gbgabiola/merge-conflicts/issues/5) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
+2. 🎉 Merged PR [#7](https://github.com/gbgabiola/merge-conflicts/pull/7) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
+3. 💪 Opened PR [#7](https://github.com/gbgabiola/merge-conflicts/pull/7) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
+4. 🎉 Merged PR [#6](https://github.com/gbgabiola/merge-conflicts/pull/6) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
+5. 💪 Opened PR [#6](https://github.com/gbgabiola/merge-conflicts/pull/6) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
 <!--END_SECTION:activity-->
 
 </details>
