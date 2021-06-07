@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/gbgabiola/merge-conflicts/issues/5) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
-2. 🎉 Merged PR [#7](https://github.com/gbgabiola/merge-conflicts/pull/7) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
-3. 💪 Opened PR [#7](https://github.com/gbgabiola/merge-conflicts/pull/7) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
-4. 🎉 Merged PR [#6](https://github.com/gbgabiola/merge-conflicts/pull/6) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
-5. 💪 Opened PR [#6](https://github.com/gbgabiola/merge-conflicts/pull/6) in [gbgabiola/merge-conflicts](https://github.com/gbgabiola/merge-conflicts)
+1. ❗️ Closed issue [#8](https://github.com/gbgabiola/innersource/issues/8) in [gbgabiola/innersource](https://github.com/gbgabiola/innersource)
+2. 🎉 Merged PR [#7](https://github.com/gbgabiola/innersource/pull/7) in [gbgabiola/innersource](https://github.com/gbgabiola/innersource)
+3. 🗣 Commented on [#7](https://github.com/gbgabiola/innersource/issues/7) in [gbgabiola/innersource](https://github.com/gbgabiola/innersource)
+4. 🎉 Merged PR [#6](https://github.com/gbgabiola/innersource/pull/6) in [gbgabiola/innersource](https://github.com/gbgabiola/innersource)
+5. 🎉 Merged PR [#5](https://github.com/gbgabiola/innersource/pull/5) in [gbgabiola/innersource](https://github.com/gbgabiola/innersource)
 <!--END_SECTION:activity-->
 
 </details>
