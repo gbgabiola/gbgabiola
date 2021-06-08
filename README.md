@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/gbgabiola/markdown-portfolio/issues/5) in [gbgabiola/markdown-portfolio](https://github.com/gbgabiola/markdown-portfolio)
-2. 🎉 Merged PR [#4](https://github.com/gbgabiola/markdown-portfolio/pull/4) in [gbgabiola/markdown-portfolio](https://github.com/gbgabiola/markdown-portfolio)
-3. 🎉 Merged PR [#3](https://github.com/gbgabiola/markdown-portfolio/pull/3) in [gbgabiola/markdown-portfolio](https://github.com/gbgabiola/markdown-portfolio)
-4. 🎉 Merged PR [#2](https://github.com/gbgabiola/markdown-portfolio/pull/2) in [gbgabiola/markdown-portfolio](https://github.com/gbgabiola/markdown-portfolio)
-5. 🗣 Commented on [#1](https://github.com/gbgabiola/markdown-portfolio/issues/1) in [gbgabiola/markdown-portfolio](https://github.com/gbgabiola/markdown-portfolio)
+1. ❗️ Closed issue [#9](https://github.com/gbgabiola/security-strategy-essentials/issues/9) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
+2. ❗️ Closed issue [#5](https://github.com/gbgabiola/security-strategy-essentials/issues/5) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
+3. ❗️ Closed issue [#10](https://github.com/gbgabiola/security-strategy-essentials/issues/10) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
+4. 🗣 Commented on [#9](https://github.com/gbgabiola/security-strategy-essentials/issues/9) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
+5. 🗣 Commented on [#9](https://github.com/gbgabiola/security-strategy-essentials/issues/9) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
 <!--END_SECTION:activity-->
 
 </details>
