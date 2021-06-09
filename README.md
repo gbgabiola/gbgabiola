@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#9](https://github.com/gbgabiola/security-strategy-essentials/issues/9) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
-2. ❗️ Closed issue [#5](https://github.com/gbgabiola/security-strategy-essentials/issues/5) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
-3. ❗️ Closed issue [#10](https://github.com/gbgabiola/security-strategy-essentials/issues/10) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
-4. 🗣 Commented on [#9](https://github.com/gbgabiola/security-strategy-essentials/issues/9) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
-5. 🗣 Commented on [#9](https://github.com/gbgabiola/security-strategy-essentials/issues/9) in [gbgabiola/security-strategy-essentials](https://github.com/gbgabiola/security-strategy-essentials)
+1. ❗️ Closed issue [#4](https://github.com/gbgabiola/getting-started-github-apps/issues/4) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
+2. ❗️ Opened issue [#4](https://github.com/gbgabiola/getting-started-github-apps/issues/4) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
+3. 🗣 Commented on [#3](https://github.com/gbgabiola/getting-started-github-apps/issues/3) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
+4. 💪 Opened PR [#3](https://github.com/gbgabiola/getting-started-github-apps/pull/3) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
+5. 🎉 Merged PR [#2](https://github.com/gbgabiola/getting-started-github-apps/pull/2) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
 <!--END_SECTION:activity-->
 
 </details>
