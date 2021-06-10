@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/gbgabiola/getting-started-github-apps/issues/4) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
-2. ❗️ Opened issue [#4](https://github.com/gbgabiola/getting-started-github-apps/issues/4) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
-3. 🗣 Commented on [#3](https://github.com/gbgabiola/getting-started-github-apps/issues/3) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
-4. 💪 Opened PR [#3](https://github.com/gbgabiola/getting-started-github-apps/pull/3) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
-5. 🎉 Merged PR [#2](https://github.com/gbgabiola/getting-started-github-apps/pull/2) in [gbgabiola/getting-started-github-apps](https://github.com/gbgabiola/getting-started-github-apps)
+1. 🗣 Commented on [#7](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository/issues/7) in [gbgabiola/connect-the-dots-in-a-github-repository](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository)
+2. ❗️ Closed issue [#8](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository/issues/8) in [gbgabiola/connect-the-dots-in-a-github-repository](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository)
+3. 🗣 Commented on [#7](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository/issues/7) in [gbgabiola/connect-the-dots-in-a-github-repository](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository)
+4. ❗️ Closed issue [#2](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository/issues/2) in [gbgabiola/connect-the-dots-in-a-github-repository](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository)
+5. 🗣 Commented on [#8](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository/issues/8) in [gbgabiola/connect-the-dots-in-a-github-repository](https://github.com/gbgabiola/connect-the-dots-in-a-github-repository)
 <!--END_SECTION:activity-->
 
 </details>
