@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/gbgabiola/jeg-resources/pull/5) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
-2. 💪 Opened PR [#5](https://github.com/gbgabiola/jeg-resources/pull/5) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
-3. 🎉 Merged PR [#3](https://github.com/gbgabiola/jeg-resources/pull/3) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
-4. 💪 Opened PR [#3](https://github.com/ecogalileo/git-testing/pull/3) in [ecogalileo/git-testing](https://github.com/ecogalileo/git-testing)
-5. 🎉 Merged PR [#1](https://github.com/gbgabiola/jeg-resources/pull/1) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
+1. 🎉 Merged PR [#13](https://github.com/gbgabiola/jeg-resources/pull/13) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
+2. 🎉 Merged PR [#5](https://github.com/gbgabiola/jeg-resources/pull/5) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
+3. 💪 Opened PR [#5](https://github.com/gbgabiola/jeg-resources/pull/5) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
+4. 🎉 Merged PR [#3](https://github.com/gbgabiola/jeg-resources/pull/3) in [gbgabiola/jeg-resources](https://github.com/gbgabiola/jeg-resources)
+5. 💪 Opened PR [#3](https://github.com/ecogalileo/git-testing/pull/3) in [ecogalileo/git-testing](https://github.com/ecogalileo/git-testing)
 <!--END_SECTION:activity-->
 
 </details>
