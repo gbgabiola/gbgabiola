@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ecogalileo/react_school_system/pull/7) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
-2. 💪 Opened PR [#7](https://github.com/ecogalileo/react_school_system/pull/7) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
-3. 🎉 Merged PR [#6](https://github.com/ecogalileo/react_school_system/pull/6) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
-4. 💪 Opened PR [#6](https://github.com/ecogalileo/react_school_system/pull/6) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
-5. 🎉 Merged PR [#5](https://github.com/ecogalileo/react_school_system/pull/5) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
+1. 🎉 Merged PR [#1](https://github.com/gbgabiola/medicalhubph/pull/1) in [gbgabiola/medicalhubph](https://github.com/gbgabiola/medicalhubph)
+2. 🎉 Merged PR [#7](https://github.com/ecogalileo/react_school_system/pull/7) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
+3. 💪 Opened PR [#7](https://github.com/ecogalileo/react_school_system/pull/7) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
+4. 🎉 Merged PR [#6](https://github.com/ecogalileo/react_school_system/pull/6) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
+5. 💪 Opened PR [#6](https://github.com/ecogalileo/react_school_system/pull/6) in [ecogalileo/react_school_system](https://github.com/ecogalileo/react_school_system)
 <!--END_SECTION:activity-->
 
 </details>
