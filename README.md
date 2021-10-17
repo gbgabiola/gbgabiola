@@ -69,11 +69,11 @@ My passion is user experience and creating real business value with a particular
   <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/gbgabiola/task-management/pull/4) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-2. 💪 Opened PR [#4](https://github.com/gbgabiola/task-management/pull/4) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-3. 🎉 Merged PR [#3](https://github.com/gbgabiola/task-management/pull/3) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-4. 💪 Opened PR [#3](https://github.com/gbgabiola/task-management/pull/3) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-5. 🎉 Merged PR [#2](https://github.com/gbgabiola/task-management/pull/2) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
+1. 🎉 Merged PR [#6](https://github.com/gbgabiola/task-management/pull/6) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
+2. 💪 Opened PR [#6](https://github.com/gbgabiola/task-management/pull/6) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
+3. 🎉 Merged PR [#5](https://github.com/gbgabiola/task-management/pull/5) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
+4. 💪 Opened PR [#5](https://github.com/gbgabiola/task-management/pull/5) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
+5. 🎉 Merged PR [#4](https://github.com/gbgabiola/task-management/pull/4) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
 <!--END_SECTION:activity-->
 
 </details>
