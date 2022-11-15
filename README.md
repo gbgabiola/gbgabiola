@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/gbgabiola?color=1DA1F2&logo=twitter&style=for-the-badge "Follow me on twitter")](https://twitter.com/intent/follow?screen_name=gbgabiola)
 
 
-## I'm a Front-End Developer specializing in JavaScript!
+## I'm a Software Engineer specializing in JavaScript!
 
 My passion is user experience and creating real business value with a particular goal of understanding the human side of software development. In the words of [Jeff Atwood](https://blog.codinghorror.com/about-me), "Computers are fascinating machines, but they're mostly a reflection of the people using them... you have to study the people behind the software, too."
 
@@ -21,10 +21,10 @@ My passion is user experience and creating real business value with a particular
 
 ### Gist About me:
 
-- 🔭 I’m currently working on a JavaScript project
-- 🌱 I’m currently learning NodeJS
+- 🔭 I’m currently working on a Full Stack (NodeJS and ReactJS) project
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on a ReactJS project
-- 🥅 2021-2022 Goals: Contribute more to Open Source projects
+- 🥅 2022-2023 Goals: More projects with NodeJS and ReactJS
 - ⚡ Fun fact: I love to play chess & musical instruments
 
 
