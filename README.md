@@ -1,36 +1,35 @@
 ### Hi there, I'm Genesis 👋
 
-[![Website](https://img.shields.io/website?label=genesisgabiola.tech&style=for-the-badge&url=https%3A%2F%2Fgenesisgabiola.tech)](https://genesisgabiola.tech)
-[![Twitter Follow](https://img.shields.io/twitter/follow/gbgabiola?color=1DA1F2&logo=twitter&style=for-the-badge "Follow me on twitter")](https://twitter.com/intent/follow?screen_name=gbgabiola)
+[![Website](https://img.shields.io/website?label=bit.ly/gbgabiola&style=for-the-badge&url=https%3A%2F%2Fbit.ly%2Fgbgabiola "Vist my website")](https://bit.ly/gbgabiola)
+[![Twitter Follow](https://img.shields.io/twitter/follow/gbgabiola?style=for-the-badge&logo=x "Follow me on X")](https://x.com/intent/follow?screen_name=gbgabiola)
 
 
-## I'm a Software Engineer specializing in JavaScript!
+## I'm a Software Engineer specializing in Full Stack Development!
 
 My passion is user experience and creating real business value with a particular goal of understanding the human side of software development. In the words of [Jeff Atwood](https://blog.codinghorror.com/about-me), "Computers are fascinating machines, but they're mostly a reflection of the people using them... you have to study the people behind the software, too."
 
 
 ### For personal things, I:
 
-- love reading useful materials like coding resources and documentations.
-- teach tech stuff to interesting people and even to career-shifters.
-- love the tools related to react/gatsby and node.js.
-- am motivated to do Open-Source!
-- am a traveler.
-- only have one woman.
+- love reading useful materials like coding resources and documentations
+- teach tech stuff to interesting people and even to career-shifters
+- am interested with tools related to React.js and Node.js
+- am looking to do some Open-Source projects
+- am a traveler
 
 
 ### Gist About me:
 
-- 🔭 I’m currently working on a Full Stack (NodeJS and ReactJS) project
-- 🌱 I’m currently learning NextJS
+- 🔭 I’m currently working on a course projects
+- 🌱 I’m currently learning more about DevOps
 - 👯 I’m looking to collaborate on a ReactJS project
-- 🥅 2022-2023 Goals: More projects with NodeJS and ReactJS
-- ⚡ Fun fact: I love to play chess & musical instruments
+- 🥅 2024-2025 Goals: More projects with other technology aside from JS ecosystem
+- ⚡ Fun fact: I love to play Chess & musical instruments
 
 
 ### Connect with me:
 
-[<img align="left" alt="genesisgabiola.tech | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="bit.ly/gbgabiola | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gbgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="gbgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gbgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -88,7 +87,7 @@ My passion is user experience and creating real business value with a particular
 </details>
 
 
-[website]: https://genesisgabiola.tech
+[website]: https://bit.ly/gbgabiola
 [twitter]: https://twitter.com/gbgabiola
 [github]: https://github.com/gbgabiola
 [linkedin]: https://linkedin.com/in/gbgabiola
