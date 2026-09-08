@@ -30,6 +30,8 @@ My passion is user experience and creating real business value with a particular
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-111111?style=flat-square&logo=styled-components" />
+
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
@@ -38,37 +40,40 @@ My passion is user experience and creating real business value with a particular
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
   <img alt="RxJS" src="https://img.shields.io/badge/RxJs-B7178C?style=flat-square&logo=reactivex" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-111111?style=flat-square&logo=styled-components" />
-
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js" />
+</p>
+<p align="left">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
   <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-9179E4?style=flat-square&logo=c-sharp" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk" />
-
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />
+</p>
+<p align="left">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql" />
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariadb" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-161F36?style=flat-square&logo=Redis" />
   <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-353535?style=flat-square&logo=elasticsearch" />
+</p>
+<p align="left">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql" />
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollographql" />
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka" />
-
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?style=flat-square&logo=postman" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-1B1B1B?style=flat-square&logo=swagger" />
+</p>
+<p align="left">
   <img alt="Git" src="https://img.shields.io/badge/Git-F0EFE7?style=flat-square&logo=git" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-1E1E20?style=flat-square&logo=Vite" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-2B3A42?style=flat-square&logo=webpack" /> 
   <img alt="Docker" src="https://img.shields.io/badge/Docker-384D54?style=flat-square&logo=docker" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=flat-square&logo=kubernetes" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?style=flat-square&logo=postman" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia" />
-  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-1B1B1B?style=flat-square&logo=swagger" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql" />
-  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollographql" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
@@ -92,6 +97,7 @@ My passion is user experience and creating real business value with a particular
   <summary>GitHub Metrics</summary>
 
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gbgabiola&rank_icon=github&custom_title=gbgabiola%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=gbgabiola&rank_icon=github&custom_title=gbgabiola%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark)
+  
   [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=gbgabiola&layout=compact&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gbgabiola&layout=compact&theme=github_dark)
 </details>
 
