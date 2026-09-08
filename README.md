@@ -1,94 +1,112 @@
 ### Hi there, I'm Genesis 👋
 
-[![Website](https://img.shields.io/website?label=bit.ly/gbgabiola&style=for-the-badge&url=https%3A%2F%2Fbit.ly%2Fgbgabiola "Vist my website")](https://bit.ly/gbgabiola)
+[![Website](https://img.shields.io/website?label=bit.ly/gbgabiola&style=for-the-badge&url=https%3A%2F%2Fbit.ly%2Fgbgabiola "Visit my website")](https://bit.ly/gbgabiola)
 [![Twitter Follow](https://img.shields.io/twitter/follow/gbgabiola?style=for-the-badge&logo=x "Follow me on X")](https://x.com/intent/follow?screen_name=gbgabiola)
-
 
 ## I'm a Software Engineer specializing in Full Stack Development!
 
-My passion is user experience and creating real business value with a particular goal of understanding the human side of software development. In the words of [Jeff Atwood](https://blog.codinghorror.com/about-me), "Computers are fascinating machines, but they're mostly a reflection of the people using them... you have to study the people behind the software, too."
+My passion is user experience and creating real business value with a particular goal of understanding the human side of software development. In the words of [Jeff Atwood](https://blog.codinghorror.com/about-me), _"Computers are fascinating machines, but they're mostly a reflection of the people using them... you have to study the people behind the software, too."_
 
+---
 
-### For personal things, I:
+### 🔭 The Gist About Me
 
-- love reading useful materials like coding resources and documentations
-- teach tech stuff to interesting people and even to career-shifters
-- am interested with tools related to React.js and Node.js
-- am looking to do some Open-Source projects
-- am a traveler
+*   **Current Focus:** Working on core project courses and exploring the **DevOps** landscape.
+*   **Interests:** Building high-performance tools inside the **React.js** and **Node.js** ecosystems.
+*   **Looking to Collaborate:** Eager to join open-source initiatives and active ReactJS projects.
+*   **Future Horizons:** Branching out to discover powerful technologies outside the JavaScript ecosystem.
 
+### 🌱 Beyond the Code
 
-### Gist About me:
+*   **Learning & Mentorship:** I love reading technical documentation and teaching complex tech concepts to career-shifters.
+*   **Hobbies:** When I am not typing away at a keyboard, I love to travel, play chess, and pick up musical instruments.
 
-- 🔭 I’m currently working on a course projects
-- 🌱 I’m currently learning more about DevOps
-- 👯 I’m looking to collaborate on a ReactJS project
-- 🥅 2024-2025 Goals: More projects with other technology aside from JS ecosystem
-- ⚡ Fun fact: I love to play Chess & musical instruments
+---
 
+### 🛠️ Languages and Tools
 
-### Connect with me:
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white"  />
+  <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=next.js" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" />
+  <img alt="RxJS" src="https://img.shields.io/badge/RxJs-B7178C?style=flat-square&logo=reactivex" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-111111?style=flat-square&logo=styled-components" />
+
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-4f5b93?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-9179E4?style=flat-square&logo=c-sharp" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk" />
+
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-001E2B?style=flat-square&logo=mongodb" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql" />
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariadb" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-161F36?style=flat-square&logo=Redis" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-353535?style=flat-square&logo=elasticsearch" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka" />
+
+  <img alt="Git" src="https://img.shields.io/badge/Git-F0EFE7?style=flat-square&logo=git" />
+  <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-1E1E20?style=flat-square&logo=Vite" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-2B3A42?style=flat-square&logo=webpack" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-384D54?style=flat-square&logo=docker" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=flat-square&logo=kubernetes" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-212121?style=flat-square&logo=postman" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-1B1B1B?style=flat-square&logo=swagger" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql" />
+  <img alt="Apollo GraphQL" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=apollographql" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
+
+---
+
+### 📈 Stats & Recent Activity
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gbgabiola&style=flat&color=2F80ED" alt="GitHub Profile Views"/>
+  <img src="https://img.shields.io/github/followers/gbgabiola?label=Followers&style=flat&color=2F80ED" alt="GitHub Followers">
+</p>
+
+<details open>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+</details>
+
+<details open>
+  <summary>GitHub Metrics</summary>
+
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gbgabiola&rank_icon=github&custom_title=gbgabiola%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=gbgabiola&rank_icon=github&custom_title=gbgabiola%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark)
+  [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=gbgabiola&layout=compact&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=gbgabiola&layout=compact&theme=github_dark)
+</details>
+
+---
+
+### 🤝 Connect with me
 
 [<img align="left" alt="bit.ly/gbgabiola | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gbgabiola | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="gbgabiola | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gbgabiola | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="gbgabiola | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="Genesis Gabiola | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-
-<br />
-
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="Bootstrap" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img align="left" alt="Tailwind CSS" width="22px" src="https://raw.githubusercontent.com/github/explore/882462b8ecc337fd9c9b2572bc463a1cbc88fb6a/topics/tailwind/tailwind.png">
-<img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img align="left" alt="Gatsby" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png">
-<img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img align="left" alt="Express" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
-<img align="left" alt="MongoDB" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/github/github.png">
-<img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/terminal/terminal.png">
-<img align="left" alt="Ubuntu" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/ubuntu/ubuntu.png">
-
-<br />
-<br />
-
----
-
-<details open>
-  <summary><h3>⚡ Recent Activity</h3></summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/gbgabiola/task-management/pull/8) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-2. 💪 Opened PR [#8](https://github.com/gbgabiola/task-management/pull/8) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-3. 🎉 Merged PR [#7](https://github.com/gbgabiola/task-management/pull/7) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-4. 💪 Opened PR [#7](https://github.com/gbgabiola/task-management/pull/7) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-5. 🎉 Merged PR [#6](https://github.com/gbgabiola/task-management/pull/6) in [gbgabiola/task-management](https://github.com/gbgabiola/task-management)
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-<details open>
-  <summary><h3>⚡ GitHub Stats</h3></summary>
-
-<img align="left" alt="gbgabiola's GitHub Stats" src="https://github-readme-stats-gbgabiola.vercel.app/api?username=gbgabiola&show_icons=true&theme=buefy">
-
-</details>
-
 
 [website]: https://bit.ly/gbgabiola
-[twitter]: https://twitter.com/gbgabiola
+[twitter]: https://x.com
 [github]: https://github.com/gbgabiola
 [linkedin]: https://linkedin.com/in/gbgabiola
 [instagram]: https://instagram.com/gbgabiola
